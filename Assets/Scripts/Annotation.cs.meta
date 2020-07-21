@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f4325f877acf14c478dbcb1bca7cdee6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spotObject: {fileID: 8075161094196734491, guid: 6ecfb5391e347384fbbde28644782157,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

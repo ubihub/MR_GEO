@@ -1,0 +1,40 @@
+WinMetadata\Windows.winmd
+UnityEngineDelegates.dll
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
+AudioPluginMsHRTF.dll
+AudioPluginMsHRTF.pdb
+Data\boot.config
+Data\globalgamemanagers
+Data\globalgamemanagers.assets
+Data\level0
+Data\managedAssemblies.txt
+Data\nativePlugins.txt
+Data\resources.assets
+Data\resources.assets.resS
+Data\Resources\unity default resources
+Data\Resources\unity_builtin_extra
+Data\sharedassets0.assets
+Data\sharedassets0.assets.resS
+Data\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+Data\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+Data\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial Media Metadata Injector
+Data\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial Media Metadata Injector.exe
+GpuTiming.dll
+GpuTiming.pdb
+MicStreamSelector.dll
+MicStreamSelector.pdb
+PlaneFinding.dll
+PlaneFinding.pdb
+Properties\Default.rd.xml
+Resource.res
+SharingClient.dll
+SharingClient.pdb
+SpatialUnderstanding.dll
+SpatialUnderstanding.pdb
+StoreManifest.xml

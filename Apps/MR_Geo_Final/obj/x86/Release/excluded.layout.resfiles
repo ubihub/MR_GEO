@@ -1,0 +1,16 @@
+Data\boot.config
+Data\globalgamemanagers
+Data\globalgamemanagers.assets
+Data\level0
+Data\managedAssemblies.txt
+Data\nativePlugins.txt
+Data\resources.assets
+Data\resources.assets.resS
+Data\Resources\unity default resources
+Data\Resources\unity_builtin_extra
+Data\sharedassets0.assets
+Data\sharedassets0.assets.resS
+Data\StreamingAssets\RockVR\FFmpeg\OSX\ffmpeg
+Data\StreamingAssets\RockVR\FFmpeg\Windows\ffmpeg.exe
+Data\StreamingAssets\RockVR\Spatial Media Metadata Injector\OSX\Spatial Media Metadata Injector
+Data\StreamingAssets\RockVR\Spatial Media Metadata Injector\Windows\Spatial Media Metadata Injector.exe
